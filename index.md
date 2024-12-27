@@ -1,3 +1,3 @@
-# index.md
+index.md
 
 ## 同喜班
