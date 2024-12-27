@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 静心学堂
+layout: home
+title: 首页
 ---
 
 
