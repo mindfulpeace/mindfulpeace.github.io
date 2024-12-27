@@ -1,0 +1,34 @@
+body {
+  color: #ccc;
+  background-color: black;
+  line-height: 2.2rem;
+  padding: 1rem;
+  letter-spacing: 0.3rem;
+  text-align: justify;
+  counter-reset: p;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+h1 {
+  margin-bottom: 3rem;
+}
+
+h2 {
+  margin: 3rem 0 0 0;
+}
+
+p {
+  font-size: 1.3rem;
+}
+
+P::before {
+  counter-increment: p;
+  content: counter(p);
+  /* font-size: 1.5rem; */
+  font-weight: 400;
+  color: orangered;
+  margin-right: 0.5rem;
+}
