@@ -1,0 +1,6 @@
+{
+    "markdown.preview.breaks": false,
+    "markdown.styles": [
+        "_layouts\\\\default.css"
+    ]
+}
