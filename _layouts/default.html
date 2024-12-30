@@ -9,12 +9,12 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css"
     />
   </head>
-  <body>
+  <body class="markdown-body">
     <!-- <header>
       <h1>{{ site.title }}</h1>
       <p>{{ site.description }}</p>
     </header> -->
-    <main class="markdown-body">{{ content }}</main>
+    <main>{{ content }}</main>
     <footer>
       <nav aria-label="breadcrumb">
         <ul id="breadcrumb">
@@ -27,7 +27,8 @@
       <style>
         nav[aria-label="breadcrumb"] {
           background: #f8f9fa;
-          padding-top: 10px;
+          padding: 50px;
+          padding-left: 10px;
         }
 
         #breadcrumb {
