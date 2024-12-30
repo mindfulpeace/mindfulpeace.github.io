@@ -1,21 +1,22 @@
 <!DOCTYPE html>
 <html lang="zh">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css"
+    />
   </head>
   <body>
     <!-- <header>
       <h1>{{ site.title }}</h1>
       <p>{{ site.description }}</p>
     </header> -->
-    <main class="markdown-body">
-      {{ content }}
-    </main>
-    <!-- <footer>
-      <p>{{ site.footer }}</p>
-    </footer> -->
+    <main class="markdown-body">{{ content }}</main>
+    <footer>
+      <script src="breadcrumbs.js"></script>
+    </footer>
   </body>
 </html>
