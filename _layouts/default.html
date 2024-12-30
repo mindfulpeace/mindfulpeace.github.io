@@ -57,7 +57,10 @@
       <script>
         function generateBreadcrumbsFromURL(url) {
           const pathArray = url.split("/").filter((part) => part.length > 0);
-          const breadcrumbs = [{ name: "Home", url: "/" }];
+          const breadcrumbs = [
+            { name: "更多文章：" },
+            { name: "首页", url: "/" },
+          ];
           let currentPath = "";
 
           pathArray.forEach((part, index) => {
