@@ -1,6 +1,6 @@
 {
     "markdown.preview.breaks": false,
     "markdown.styles": [
-        "_layouts\\\\github-markdown.min.css"
+        ".vscode\\\\markdown-preview.css"
     ]
 }
