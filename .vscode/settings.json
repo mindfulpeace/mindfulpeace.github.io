@@ -2,5 +2,8 @@
     "markdown.preview.breaks": false,
     "markdown.styles": [
         ".vscode\\\\markdown-preview.css"
+    ],
+    "cSpell.words": [
+        "Bodhisattvacaryavatara"
     ]
 }
