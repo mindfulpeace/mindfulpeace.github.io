@@ -1,1 +1,1 @@
-alert('running global.js');
+// alert('running global.js');
