@@ -3,18 +3,26 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" href="https://www.mindfulpeace.org/images/nav-logo.png" type="image/png">
+    <link
+      rel="icon"
+      href="https://www.mindfulpeace.org/images/nav-logo.png"
+      type="image/png"
+    />
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="{{网站名称}}" />
-    <meta name="og:title" content="{{ page.title | escape }} - "/>
-    <meta name="og:image" content="https://www.mindfulpeace.org/images/nav-logo.png" type="image/png"/>
+    <meta name="og:title" content="{{ page.title | escape }} - " />
+    <meta
+      name="og:image"
+      content="https://www.mindfulpeace.org/images/nav-logo.png"
+      type="image/png"
+    />
     <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css"
     />
   </head>
-  <body class="markdown-body" style="margin: 5px;">
+  <body class="markdown-body" style="margin: 5px">
     <!-- <header>
       <h1>{{ site.title }}</h1>
       <p>{{ site.description }}</p>
@@ -106,4 +114,5 @@
       </script>
     </footer>
   </body>
+  <script src="/global.js"></script>
 </html>
