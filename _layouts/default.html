@@ -3,24 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="icon"
-      href="https://www.mindfulpeace.org/images/nav-logo.png"
-      type="image/png"
-    />
+    <link rel="icon" href="/assets/nav-logo.png" type="image/png" />
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="{{网站名称}}" />
     <meta name="og:title" content="{{ page.title | escape }} - " />
-    <meta
-      name="og:image"
-      content="https://www.mindfulpeace.org/images/nav-logo.png"
-      type="image/png"
-    />
+    <meta name="og:image" content="/assets/nav-logo.png" type="image/png" />
     <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css"
-    />
+    <link rel="stylesheet" href="/assets/github-markdown.css" />
+    <link rel="stylesheet" href="/assets/breadcrumbs.css" />
   </head>
   <body class="markdown-body" style="margin: 5px">
     <!-- <header>
@@ -37,82 +27,7 @@
           <li>Current Page</li>
         </ul>
       </nav>
-      <style>
-        nav[aria-label="breadcrumb"] {
-          padding-top: 10px;
-          padding-bottom: 10px;
-        }
-
-        #breadcrumb {
-          list-style: none;
-          display: flex;
-          flex-wrap: wrap;
-          padding-inline-start: 0px;
-        }
-
-        #breadcrumb li {
-          margin-right: 10px;
-          margin-top: 0;
-        }
-
-        #breadcrumb li a {
-          text-decoration: none;
-          color: #007bff;
-        }
-
-        #breadcrumb li::after {
-          content: "/";
-          margin-left: 10px;
-        }
-
-        #breadcrumb li:last-child::after {
-          content: "";
-        }
-      </style>
-      <script lang="javascript" charset="UTF-8">
-        function generateBreadcrumbsFromURL(url) {
-          const pathArray = url.split("/").filter((part) => part.length > 0);
-          const breadcrumbs = [
-            { name: "首页", url: "/" },
-          ];
-          let currentPath = "";
-
-          pathArray.forEach((part, index) => {
-            currentPath += `/${part}`;
-            breadcrumbs.push({
-              name: decodeURIComponent(part.charAt(0).toUpperCase() + part.slice(1)),
-              url: index === pathArray.length - 1 ? null : currentPath,
-            });
-          });
-
-          return breadcrumbs;
-        }
-
-        // 使用当前页面的URL生成面包屑
-        const currentURL = window.location.pathname;
-        const dynamicBreadcrumbs = generateBreadcrumbsFromURL(currentURL);
-
-        // 获取面包屑导航的容器
-        const breadcrumbContainer = document.getElementById("breadcrumb");
-
-        // 清空现有的内容
-        breadcrumbContainer.innerHTML = "";
-
-        // 动态生成面包屑导航
-        dynamicBreadcrumbs.forEach((crumb, index) => {
-          const li = document.createElement("li");
-          if (crumb.url) {
-            const a = document.createElement("a");
-            a.href = crumb.url;
-            a.textContent = crumb.name;
-            li.appendChild(a);
-          } else {
-            li.textContent = crumb.name;
-          }
-          breadcrumbContainer.appendChild(li);
-        });
-      </script>
+      <script src="/assets/breadcrumbs.js"></script>
     </footer>
   </body>
-  <script src="/global.js"></script>
 </html>

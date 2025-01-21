@@ -1,0 +1,30 @@
+nav[aria-label="breadcrumb"] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  #breadcrumb {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding-inline-start: 0px;
+  }
+
+  #breadcrumb li {
+    margin-right: 10px;
+    margin-top: 0;
+  }
+
+  #breadcrumb li a {
+    text-decoration: none;
+    color: #007bff;
+  }
+
+  #breadcrumb li::after {
+    content: "/";
+    margin-left: 10px;
+  }
+
+  #breadcrumb li:last-child::after {
+    content: "";
+  }
