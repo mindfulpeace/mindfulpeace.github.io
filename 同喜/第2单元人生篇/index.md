@@ -14,11 +14,11 @@
 
 第 9 课[《生命的回归》](./09-生命的回归)
 
-第 10 课《学佛者的人生态度》之一（观听视频，参阅文稿）
+第 10 课《学佛者的人生态度》之一（[观听视频](https://www.youtube.com/watch?v=R31erH_I39E&list=PLFOtSydP54hdLSQfNmabHnm2zDucneVqm&index=1)，[参阅文稿](./10-学佛者的人生态度之一)）
 
-第 11 课《学佛者的人生态度》之二（观听视频，参阅文稿）
+第 11 课《学佛者的人生态度》之二（[观听视频](https://www.youtube.com/watch?v=JqzWglxLtzE&list=PLFOtSydP54hdLSQfNmabHnm2zDucneVqm&index=3)，[参阅文稿](./11-学佛者的人生态度之二)）
 
-第 12 课《学佛者的人生态度》之三（观听视频，参阅文稿）
+第 12 课《学佛者的人生态度》之三（[观听视频](https://www.youtube.com/watch?v=BBu_lI665dg&list=PLFOtSydP54hdLSQfNmabHnm2zDucneVqm&index=7)，[参阅文稿](./12-学佛者的人生态度之三)）
 
 第 13 课《班级经营手册》（漫画版、动画版）
 
