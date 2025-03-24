@@ -15,7 +15,7 @@ function Rename(name) {
     s3: "第三进度",
     s4: "第四进度",
   };
-  return dictionary[name] || name;
+  return dictionary[name.toLowerCase()] || name;
 }
 
 function generateBreadcrumbsFromURL(url) {
@@ -26,7 +26,7 @@ function generateBreadcrumbsFromURL(url) {
   pathArray.forEach((part, index) => {
     currentPath += `/${part}`;
     breadcrumbs.push({
-      name: Rename(decodeURIComponent(part.charAt(0).toUpperCase() + part.slice(1))),
+      name: Rename(decodeURIComponent(part)),
       url: index === pathArray.length - 1 ? null : currentPath,
     });
   });
