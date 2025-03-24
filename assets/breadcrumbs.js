@@ -1,3 +1,14 @@
+function Rename(name) {
+  switch (name) {
+    case "Home":
+      return "首页";
+    case "同喜":
+      return "第一阶段-同喜";
+    default:
+      return name;
+  }
+}
+
 function generateBreadcrumbsFromURL(url) {
   const pathArray = url.split("/").filter((part) => part.length > 0);
   const breadcrumbs = [{ name: "首页", url: "/" }];
@@ -6,7 +17,7 @@ function generateBreadcrumbsFromURL(url) {
   pathArray.forEach((part, index) => {
     currentPath += `/${part}`;
     breadcrumbs.push({
-      name: decodeURIComponent(part.charAt(0).toUpperCase() + part.slice(1)),
+      name: Rename(decodeURIComponent(part.charAt(0).toUpperCase() + part.slice(1))),
       url: index === pathArray.length - 1 ? null : currentPath,
     });
   });
