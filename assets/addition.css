@@ -1,0 +1,12 @@
+p:not(li p, blockquote p, pre p) {
+  text-align: justify;
+  text-indent: 2em;
+}
+/* P::before {
+  counter-increment: p;
+  content: counter(p);
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: orangered;
+  margin-right: 0.5rem;
+} */
