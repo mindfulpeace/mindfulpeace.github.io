@@ -1,12 +1,21 @@
 function Rename(name) {
-  switch (name) {
-    case "Home":
-      return "首页";
-    case "同喜":
-      return "第一阶段-同喜";
-    default:
-      return name;
-  }
+  const dictionary = {
+    g1: "同喜",
+    g2: "同修",
+    g3: "同德",
+    u1: "第一单元",
+    u2: "第二单元",
+    u3: "第三单元",
+    u4: "第四单元",
+    u5: "第五单元",
+    u6: "第六单元",
+    u7: "第七单元",
+    s1: "第一进度",
+    s2: "第二进度",
+    s3: "第三进度",
+    s4: "第四进度",
+  };
+  return dictionary[name] || name;
 }
 
 function generateBreadcrumbsFromURL(url) {
