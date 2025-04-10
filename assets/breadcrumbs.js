@@ -1,4 +1,5 @@
 function Rename(name) {
+  if (/^\d+$/.test(name)) return `第 ${name} 课`;
   const dictionary = {
     g1: "同喜",
     g2: "同修",
