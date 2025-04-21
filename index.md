@@ -89,11 +89,11 @@
   - [《走上菩提道》]()
 
 - 《八步骤三种禅修》（2 课）
+  [01](/g2/s1/dcd/explain#01) -
+  [02](/g2/s1/dcd/explain#02)
 
-  - [【01】](/g2/s1/dcd/explain.md#01)
-    [【02】](/g2/s1/dcd/explain.md#01)
-
-- 义工成长指南[（1 课）]()
+- 义工成长指南（1 课）
+  [01]()
 
 - 学前引导
 
@@ -102,106 +102,117 @@
 
 - 《菩提道次第略论》系列讲座（77 课）
 
-  - 道前基础 [【复习课】]()\
-    [【01】](/g2/s1/dcd/explain.md#01)
-    [【02】](/g2/s1/dcd/explain.md#01)
-    [【03】](/g2/s1/dcd/explain.md#01)
-    [【04】](/g2/s1/dcd/explain.md#01)
-    [【05】](/g2/s1/dcd/explain.md#01)
-    [【06】](/g2/s1/dcd/explain.md#01)
-    [【07】](/g2/s1/dcd/explain.md#01)
-    [【08】](/g2/s1/dcd/explain.md#01)
+  - 道前基础 \
+    [01](/g2/s1/dcd/explain#01) -
+    [02](/g2/s1/dcd/explain#02) -
+    [03](/g2/s1/dcd/explain#03) -
+    [04](/g2/s1/dcd/explain#04) -
+    [05](/g2/s1/dcd/explain#05) -
+    [06](/g2/s1/dcd/explain#06) -
+    [07](/g2/s1/dcd/explain#07) -
+    [08](/g2/s1/dcd/explain#08) -
+    [复习 1]()
 
-  - 依止善知识 [【复习课】]()\
-    [【09】](/g2/s1/dcd/explain.md#01)
-    [【10】](/g2/s1/dcd/explain.md#01)
-    [【11】](/g2/s1/dcd/explain.md#01)
-    [【12】](/g2/s1/dcd/explain.md#01)
-    [【13】](/g2/s1/dcd/explain.md#01)
-    [【14】](/g2/s1/dcd/explain.md#01)
-    [【15】](/g2/s1/dcd/explain.md#01)
+  - 依止善知识 \
+    [09](/g2/s1/dcd/explain#09) -
+    [10](/g2/s1/dcd/explain#10) -
+    [11](/g2/s1/dcd/explain#11) -
+    [12](/g2/s1/dcd/explain#12) -
+    [13](/g2/s1/dcd/explain#13) -
+    [14](/g2/s1/dcd/explain#14) -
+    [15](/g2/s1/dcd/explain#15) -
+    [复习 2]()
 
-  - 略示修法 [【复习课】]()\
-    [【16】](/g2/s1/dcd/explain.md#01)
-    [【17】](/g2/s1/dcd/explain.md#01)
-    [【18】](/g2/s1/dcd/explain.md#01)
-    [【19】](/g2/s1/dcd/explain.md#01)
-    [【20】](/g2/s1/dcd/explain.md#01)
-    [【21】](/g2/s1/dcd/explain.md#01)
-    [【22】](/g2/s1/dcd/explain.md#01)
-    [【23】](/g2/s1/dcd/explain.md#01)
+  - 略示修法 \
+    [16](/g2/s1/dcd/explain#16) -
+    [17](/g2/s1/dcd/explain#17) -
+    [18](/g2/s1/dcd/explain#18) -
+    [19](/g2/s1/dcd/explain#19) -
+    [20](/g2/s1/dcd/explain#20) -
+    [21](/g2/s1/dcd/explain#21) -
+    [22](/g2/s1/dcd/explain#22) -
+    [23](/g2/s1/dcd/explain#23) -
+    [复习 3]()
 
-  - 于有暇身劝受心要 [【复习课】]()\
-    [【24】](/g2/s1/dcd/explain.md#01)
-    [【25】](/g2/s1/dcd/explain.md#01)
-    [【26】](/g2/s1/dcd/explain.md#01)
-    [【27】](/g2/s1/dcd/explain.md#01)
-    [【28】](/g2/s1/dcd/explain.md#01)
-    [【29】](/g2/s1/dcd/explain.md#01)
-    [【30】](/g2/s1/dcd/explain.md#01)
+  - 于有暇身劝受心要 \
+    [24](/g2/s1/dcd/explain#24) -
+    [25](/g2/s1/dcd/explain#25) -
+    [26](/g2/s1/dcd/explain#26) -
+    [27](/g2/s1/dcd/explain#27) -
+    [28](/g2/s1/dcd/explain#28) -
+    [29](/g2/s1/dcd/explain#29) -
+    [复习 4]()
 
-  - 念死无常与思恶趣苦 [【复习课】]()\
-    [【31】](/g2/s1/dcd/explain.md#01)
-    [【32】](/g2/s1/dcd/explain.md#01)
-    [【33】](/g2/s1/dcd/explain.md#01)
-    [【34】](/g2/s1/dcd/explain.md#01)
+  - 念死无常与思恶趣苦 \
+    [30](/g2/s1/dcd/explain#30) -
+    [31](/g2/s1/dcd/explain#31) -
+    [32](/g2/s1/dcd/explain#32) -
+    [33](/g2/s1/dcd/explain#33) -
+    [34](/g2/s1/dcd/explain#34) -
+    [复习 5]()
 
-  - 皈依三宝 [【复习课】]()\
-    [【35】](/g2/s1/dcd/explain.md#01)
-    [【36】](/g2/s1/dcd/explain.md#01)
-    [【37】](/g2/s1/dcd/explain.md#01)
-    [【38】](/g2/s1/dcd/explain.md#01)
-    [【39】](/g2/s1/dcd/explain.md#01)
-    [【40】](/g2/s1/dcd/explain.md#01)
-    [【41】](/g2/s1/dcd/explain.md#01)
+  - 皈依三宝 \
+    [35](/g2/s1/dcd/explain#35) -
+    [36](/g2/s1/dcd/explain#36) -
+    [37](/g2/s1/dcd/explain#37) -
+    [38](/g2/s1/dcd/explain#38) -
+    [39](/g2/s1/dcd/explain#39) -
+    [40](/g2/s1/dcd/explain#40) -
+    [41](/g2/s1/dcd/explain#41) -
+    [复习 6]()
 
-  - 深信业果 [【复习课】]()\
-    [【42】](/g2/s1/dcd/explain.md#01)
-    [【43】](/g2/s1/dcd/explain.md#01)
-    [【44】](/g2/s1/dcd/explain.md#01)
-    [【45】](/g2/s1/dcd/explain.md#01)
-    [【46】](/g2/s1/dcd/explain.md#01)
-    [【47】](/g2/s1/dcd/explain.md#01)
+  - 深信业果 \
+    [42](/g2/s1/dcd/explain#42) -
+    [43](/g2/s1/dcd/explain#43) -
+    [44](/g2/s1/dcd/explain#44) -
+    [45](/g2/s1/dcd/explain#45) -
+    [46](/g2/s1/dcd/explain#46) -
+    [47](/g2/s1/dcd/explain#47) -
+    [复习 7]()
 
-  - 出离轮回 [【复习课】]()\
-    [【48】](/g2/s1/dcd/explain.md#01)
-    [【49】](/g2/s1/dcd/explain.md#01)
-    [【50】](/g2/s1/dcd/explain.md#01)
-    [【51】](/g2/s1/dcd/explain.md#01)
-    [【52】](/g2/s1/dcd/explain.md#01)
-    [【53】](/g2/s1/dcd/explain.md#01)
-    [【54】](/g2/s1/dcd/explain.md#01)
-    [【55】](/g2/s1/dcd/explain.md#01)
-    [【56】](/g2/s1/dcd/explain.md#01)
+  - 出离轮回 \
+    [48](/g2/s1/dcd/explain#48) -
+    [49](/g2/s1/dcd/explain#49) -
+    [50](/g2/s1/dcd/explain#50) -
+    [51](/g2/s1/dcd/explain#51) -
+    [52](/g2/s1/dcd/explain#52) -
+    [53](/g2/s1/dcd/explain#53) -
+    [54](/g2/s1/dcd/explain#54) -
+    [55](/g2/s1/dcd/explain#55) -
+    [56](/g2/s1/dcd/explain#56) -
+    [复习 8]()
 
-  - 愿菩提心 [【复习课】]()\
-    [【57】](/g2/s1/dcd/explain.md#01)
-    [【58】](/g2/s1/dcd/explain.md#01)
-    [【59】](/g2/s1/dcd/explain.md#01)
-    [【60】](/g2/s1/dcd/explain.md#01)
-    [【61】](/g2/s1/dcd/explain.md#01)
-    [【62】](/g2/s1/dcd/explain.md#01)
-    [【63】](/g2/s1/dcd/explain.md#01)
-    [【64】](/g2/s1/dcd/explain.md#01)
-    [【65】](/g2/s1/dcd/explain.md#01)
+  - 愿菩提心 \
+    [57](/g2/s1/dcd/explain#57) -
+    [58](/g2/s1/dcd/explain#58) -
+    [59](/g2/s1/dcd/explain#59) -
+    [60](/g2/s1/dcd/explain#60) -
+    [61](/g2/s1/dcd/explain#61) -
+    [62](/g2/s1/dcd/explain#62) -
+    [63](/g2/s1/dcd/explain#63) -
+    [64](/g2/s1/dcd/explain#64) -
+    [65](/g2/s1/dcd/explain#65) -
+    [复习课]()
 
-  - 行菩提心 [【复习课】]()\
-    [【66】](/g2/s1/dcd/explain.md#01)
-    [【67】](/g2/s1/dcd/explain.md#01)
-    [【68】](/g2/s1/dcd/explain.md#01)
-    [【69】](/g2/s1/dcd/explain.md#01)
-    [【70】](/g2/s1/dcd/explain.md#01)
-    [【71】](/g2/s1/dcd/explain.md#01)
-    [【72】](/g2/s1/dcd/explain.md#01)
-    [【73】](/g2/s1/dcd/explain.md#01)
+  - 行菩提心 \
+    [66](/g2/s1/dcd/explain#66) -
+    [67](/g2/s1/dcd/explain#67) -
+    [68](/g2/s1/dcd/explain#68) -
+    [69](/g2/s1/dcd/explain#69) -
+    [70](/g2/s1/dcd/explain#70) -
+    [71](/g2/s1/dcd/explain#71) -
+    [72](/g2/s1/dcd/explain#72) -
+    [73](/g2/s1/dcd/explain#73) -
+    [复习课]()
 
-- 《三主要道颂》 [【复习课】]()
+- 《三主要道颂》
 
-  - [【01】](/g2/s1/dcd/explain.md#01)
-    [【02】](/g2/s1/dcd/explain.md#01)
-    [【03】](/g2/s1/dcd/explain.md#01)
-    [【04】](/g2/s1/dcd/explain.md#01)
-    [【05】](/g2/s1/dcd/explain.md#01)
+  [01](/g2/s1/dcd/explain#01) -
+  [02](/g2/s1/dcd/explain#02) -
+  [03](/g2/s1/dcd/explain#03) -
+  [04](/g2/s1/dcd/explain#04) -
+  [05](/g2/s1/dcd/explain#05) -
+  [复习课]()
 
 ### 同修·第二进度（1 年）<span id='g2s2'/>
 
@@ -219,6 +230,84 @@
 - 晋级开示：
   - 《发菩提心，学做菩萨》
 - 《入菩萨行论》系列讲座（120 讲）
+  - 序论、第一品 利益 \
+    [1](/g2/s3/rxl/00-xl#1) -
+    [2](/g2/s3/rxl/00-xl#2) -
+    [3](/g2/s3/rxl/01-ly#3) -
+    [4](/g2/s3/rxl/01-ly#4) -
+    [5](/g2/s3/rxl/01-ly#5) -
+    复习课一
+  - 第二品 忏悔、第三品 受持\
+    [6](/g2/s3/rxl/02-ch#6) -
+    [7](/g2/s3/rxl/02-ch#7) -
+    [8](/g2/s3/rxl/02-ch#8) -
+    [9](/g2/s3/rxl/02-ch#9) -
+    [10](/g2/s3/rxl/03-sc#10) -
+    [11](/g2/s3/rxl/03-sc#11) -
+    复习课二
+  - 第四品 不放逸\
+    [12](/g2/s3/rxl/04-bfy#12) -
+    [13](/g2/s3/rxl/04-bfy#13) -
+    [14](/g2/s3/rxl/04-bfy#14) -
+    复习课三
+  - 第五品 护正知\
+    [15](/g2/s3/rxl/05-hzz#15) -
+    [16](/g2/s3/rxl/05-hzz#16) -
+    [17](/g2/s3/rxl/05-hzz#17) -
+    [18](/g2/s3/rxl/05-hzz#18) -
+    [19](/g2/s3/rxl/05-hzz#19) -
+    [20](/g2/s3/rxl/05-hzz#20) -
+    [21](/g2/s3/rxl/05-hzz#21) -
+    [22](/g2/s3/rxl/05-hzz#22) -
+    复习课四
+  - 第六品 安忍\
+    [23](/g2/s3/rxl/06-ar#23) -
+    [24](/g2/s3/rxl/06-ar#24) -
+    [25](/g2/s3/rxl/06-ar#25) -
+    [26](/g2/s3/rxl/06-ar#26) -
+    [27](/g2/s3/rxl/06-ar#27) -
+    [28](/g2/s3/rxl/06-ar#28) -
+    [29](/g2/s3/rxl/06-ar#29) -
+    [30](/g2/s3/rxl/06-ar#30) -
+    复习课五
+  - 第七品 精进\
+    [31](/g2/s3/rxl/07-jj#31) -
+    [32](/g2/s3/rxl/07-jj#32) -
+    [33](/g2/s3/rxl/07-jj#33) -
+    [34](/g2/s3/rxl/07-jj#34) -
+    复习课六
+  - 第八品 静虑\
+    [35](/g2/s3/rxl/08-jl#35) -
+    [36](/g2/s3/rxl/08-jl#36) -
+    [37](/g2/s3/rxl/08-jl#37) -
+    [38](/g2/s3/rxl/08-jl#38) -
+    [39](/g2/s3/rxl/08-jl#39) -
+    [40](/g2/s3/rxl/08-jl#40) -
+    [41](/g2/s3/rxl/08-jl#41) -
+    [42](/g2/s3/rxl/08-jl#42) -
+    [43](/g2/s3/rxl/08-jl#43) -
+    复习课七
+  - 第九品 智慧\
+    [44](/g2/s3/rxl/09-zh#44) -
+    [45](/g2/s3/rxl/09-zh#45) -
+    [46](/g2/s3/rxl/09-zh#46) -
+    [47](/g2/s3/rxl/09-zh#47) -
+    [48](/g2/s3/rxl/09-zh#48) -
+    [49](/g2/s3/rxl/09-zh#49) -
+    [50](/g2/s3/rxl/09-zh#50) -
+    [51](/g2/s3/rxl/09-zh#51) -
+    [52](/g2/s3/rxl/09-zh#52) -
+    [53](/g2/s3/rxl/09-zh#53) -
+    [54](/g2/s3/rxl/09-zh#54) -
+    [55](/g2/s3/rxl/09-zh#55) -
+    [56](/g2/s3/rxl/09-zh#56) -
+    [57](/g2/s3/rxl/09-zh#57) -
+    复习课八
+  - 第十品 回向\
+    [58](/g2/s3/rxl/10-hx#58) -
+    [59](/g2/s3/rxl/10-hx#59) -
+    [60](/g2/s3/rxl/10-hx#60) -
+    总复习课
 
 ### 同修·第四进度（4 个月）<span id='g2s4'/>
 
