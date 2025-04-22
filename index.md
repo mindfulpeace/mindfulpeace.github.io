@@ -114,106 +114,110 @@
 - [《菩提道次第略论》系列讲座](/g2/s1/dcd/)（77 课）
 
   - 道前基础 \
-    [**01**](/g2/s1/dcd/explain#1) -
-    [**02**](/g2/s1/dcd/explain#2) -
-    [**03**](/g2/s1/dcd/explain#3) -
-    [**04**](/g2/s1/dcd/explain#4) -
-    [**05**](/g2/s1/dcd/explain#5) -
-    [**06**](/g2/s1/dcd/explain#6) -
-    [**07**](/g2/s1/dcd/explain#7) -
-    [**08**](/g2/s1/dcd/explain#8) -
+    [**01**](/g2/s1/dcd/01-dqjc#1) -
+    [**02**](/g2/s1/dcd/01-dqjc#2) -
+    [**03**](/g2/s1/dcd/01-dqjc#3) -
+    [**04**](/g2/s1/dcd/01-dqjc#4) -
+    [**05**](/g2/s1/dcd/01-dqjc#5) -
+    [**06**](/g2/s1/dcd/01-dqjc#6) -
+    [**07**](/g2/s1/dcd/01-dqjc#7) -
+    [**08**](/g2/s1/dcd/01-dqjc#8) -
     [复习 1]()
 
   - 依止善知识 \
-    [**09**](/g2/s1/dcd/explain#9) -
-    [**10**](/g2/s1/dcd/explain#10) -
-    [**11**](/g2/s1/dcd/explain#11) -
-    [**12**](/g2/s1/dcd/explain#12) -
-    [**13**](/g2/s1/dcd/explain#13) -
-    [**14**](/g2/s1/dcd/explain#14) -
-    [**15**](/g2/s1/dcd/explain#15) -
+    [**09**](/g2/s1/dcd/02-yzszs#9) -
+    [**10**](/g2/s1/dcd/02-yzszs#10) -
+    [**11**](/g2/s1/dcd/02-yzszs#11) -
+    [**12**](/g2/s1/dcd/02-yzszs#12) -
+    [**13**](/g2/s1/dcd/02-yzszs#13) -
+    [**14**](/g2/s1/dcd/02-yzszs#14) -
+    [**15**](/g2/s1/dcd/02-yzszs#15) -
     [复习 2]()
 
   - 略示修法 \
-    [**16**](/g2/s1/dcd/explain#16) -
-    [**17**](/g2/s1/dcd/explain#17) -
-    [**18**](/g2/s1/dcd/explain#18) -
-    [**19**](/g2/s1/dcd/explain#19) -
-    [**20**](/g2/s1/dcd/explain#20) -
-    [**21**](/g2/s1/dcd/explain#21) -
-    [**22**](/g2/s1/dcd/explain#22) -
-    [**23**](/g2/s1/dcd/explain#23) -
+    [**16**](/g2/s1/dcd/03-lsxf#16) -
+    [**17**](/g2/s1/dcd/03-lsxf#17) -
+    [**18**](/g2/s1/dcd/03-lsxf#18) -
+    [**19**](/g2/s1/dcd/03-lsxf#19) -
+    [**20**](/g2/s1/dcd/03-lsxf#20) -
+    [**21**](/g2/s1/dcd/03-lsxf#21) -
+    [**22**](/g2/s1/dcd/03-lsxf#22) -
     [复习 3]()
 
   - 于有暇身劝受心要 \
-    [**24**](/g2/s1/dcd/explain#24) -
-    [**25**](/g2/s1/dcd/explain#25) -
-    [**26**](/g2/s1/dcd/explain#26) -
-    [**27**](/g2/s1/dcd/explain#27) -
-    [**28**](/g2/s1/dcd/explain#28) -
-    [**29**](/g2/s1/dcd/explain#29) -
+    [**23**](/g2/s1/dcd/04-xmrs#23) -
+    [**24**](/g2/s1/dcd/04-xmrs#24) -
+    [**25**](/g2/s1/dcd/04-xmrs#25) -
+    [**26**](/g2/s1/dcd/04-xmrs#26) -
+    [**27**](/g2/s1/dcd/04-xmrs#27) -
+    [**28**](/g2/s1/dcd/04-xmrs#28) -
+    [**29**](/g2/s1/dcd/04-xmrs#29) -
     [复习 4]()
 
   - 念死无常与思恶趣苦 \
-    [**30**](/g2/s1/dcd/explain#30) -
-    [**31**](/g2/s1/dcd/explain#31) -
-    [**32**](/g2/s1/dcd/explain#32) -
-    [**33**](/g2/s1/dcd/explain#33) -
-    [**34**](/g2/s1/dcd/explain#34) -
+    [**30**](/g2/s1/dcd/05-nswc#30) -
+    [**31**](/g2/s1/dcd/05-nswc#31) -
+    [**32**](/g2/s1/dcd/05-nswc#32) -
+    [**33**](/g2/s1/dcd/05-nswc#33) -
+    [**34**](/g2/s1/dcd/05-nswc#34) -
     [复习 5]()
 
   - 皈依三宝 \
-    [**35**](/g2/s1/dcd/explain#35) -
-    [**36**](/g2/s1/dcd/explain#36) -
-    [**37**](/g2/s1/dcd/explain#37) -
-    [**38**](/g2/s1/dcd/explain#38) -
-    [**39**](/g2/s1/dcd/explain#39) -
-    [**40**](/g2/s1/dcd/explain#40) -
-    [**41**](/g2/s1/dcd/explain#41) -
+    [**35**](/g2/s1/dcd/06-gysb#35) -
+    [**36**](/g2/s1/dcd/06-gysb#36) -
+    [**37**](/g2/s1/dcd/06-gysb#37) -
+    [**38**](/g2/s1/dcd/06-gysb#38) -
+    [**39**](/g2/s1/dcd/06-gysb#39) -
+    [**40**](/g2/s1/dcd/06-gysb#40) -
+    [**41**](/g2/s1/dcd/06-gysb#41) -
     [复习 6]()
 
   - 深信业果 \
-    [**42**](/g2/s1/dcd/explain#42) -
-    [**43**](/g2/s1/dcd/explain#43) -
-    [**44**](/g2/s1/dcd/explain#44) -
-    [**45**](/g2/s1/dcd/explain#45) -
-    [**46**](/g2/s1/dcd/explain#46) -
-    [**47**](/g2/s1/dcd/explain#47) -
+    [**42**](/g2/s1/dcd/07-sxyg#42) -
+    [**43**](/g2/s1/dcd/07-sxyg#43) -
+    [**44**](/g2/s1/dcd/07-sxyg#44) -
+    [**45**](/g2/s1/dcd/07-sxyg#45) -
+    [**46**](/g2/s1/dcd/07-sxyg#46) -
+    [**47**](/g2/s1/dcd/07-sxyg#47) -
+    [**48**](/g2/s1/dcd/07-sxyg#48) -
+    [**49**](/g2/s1/dcd/07-sxyg#49) -
     [复习 7]()
 
   - 出离轮回 \
-    [**48**](/g2/s1/dcd/explain#48) -
-    [**49**](/g2/s1/dcd/explain#49) -
-    [**50**](/g2/s1/dcd/explain#50) -
-    [**51**](/g2/s1/dcd/explain#51) -
-    [**52**](/g2/s1/dcd/explain#52) -
-    [**53**](/g2/s1/dcd/explain#53) -
-    [**54**](/g2/s1/dcd/explain#54) -
-    [**55**](/g2/s1/dcd/explain#55) -
-    [**56**](/g2/s1/dcd/explain#56) -
+    [**50**](/g2/s1/dcd/08-cllh#50) -
+    [**51**](/g2/s1/dcd/08-cllh#51) -
+    [**52**](/g2/s1/dcd/08-cllh#52) -
+    [**53**](/g2/s1/dcd/08-cllh#53) -
+    [**54**](/g2/s1/dcd/08-cllh#54) -
+    [**55**](/g2/s1/dcd/08-cllh#55) -
+    [**56**](/g2/s1/dcd/08-cllh#56) -
+    [**57**](/g2/s1/dcd/08-cllh#57) -
+    [**58**](/g2/s1/dcd/08-cllh#58) -
     [复习 8]()
 
   - 愿菩提心 \
-    [**57**](/g2/s1/dcd/explain#57) -
-    [**58**](/g2/s1/dcd/explain#58) -
-    [**59**](/g2/s1/dcd/explain#59) -
-    [**60**](/g2/s1/dcd/explain#60) -
-    [**61**](/g2/s1/dcd/explain#61) -
-    [**62**](/g2/s1/dcd/explain#62) -
-    [**63**](/g2/s1/dcd/explain#63) -
-    [**64**](/g2/s1/dcd/explain#64) -
-    [**65**](/g2/s1/dcd/explain#65) -
+    [**59**](/g2/s1/dcd/09-yptx#59) -
+    [**60**](/g2/s1/dcd/09-yptx#60) -
+    [**61**](/g2/s1/dcd/09-yptx#61) -
+    [**62**](/g2/s1/dcd/09-yptx#62) -
+    [**63**](/g2/s1/dcd/09-yptx#63) -
+    [**64**](/g2/s1/dcd/09-yptx#64) -
+    [**65**](/g2/s1/dcd/09-yptx#65) -
+    [**66**](/g2/s1/dcd/09-yptx#66) -
+    [**67**](/g2/s1/dcd/09-yptx#67) -
+    [**68**](/g2/s1/dcd/09-yptx#68) -
     [复习课]()
 
   - 行菩提心 \
-    [**66**](/g2/s1/dcd/explain#66) -
-    [**67**](/g2/s1/dcd/explain#67) -
-    [**68**](/g2/s1/dcd/explain#68) -
-    [**69**](/g2/s1/dcd/explain#69) -
-    [**70**](/g2/s1/dcd/explain#70) -
-    [**71**](/g2/s1/dcd/explain#71) -
-    [**72**](/g2/s1/dcd/explain#72) -
-    [**73**](/g2/s1/dcd/explain#73) -
+    [**69**](/g2/s1/dcd/10-xptx#69) -
+    [**70**](/g2/s1/dcd/10-xptx#70) -
+    [**71**](/g2/s1/dcd/10-xptx#71) -
+    [**72**](/g2/s1/dcd/10-xptx#72) -
+    [**73**](/g2/s1/dcd/10-xptx#73) -
+    [**74**](/g2/s1/dcd/10-xptx#74) -
+    [**75**](/g2/s1/dcd/10-xptx#75) -
+    [**76**](/g2/s1/dcd/10-xptx#76) -
+    [**77**](/g2/s1/dcd/10-xptx#77) -
     [复习课]()
 
 - 《三主要道颂》

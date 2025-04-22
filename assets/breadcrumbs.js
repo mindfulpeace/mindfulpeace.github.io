@@ -1,6 +1,7 @@
 function Rename(name) {
   if (/^\d+$/.test(name)) return `第 ${name} 课`;
   const dictionary = {
+    fc: "辅助材料",
     g1: "同喜",
     g2: "同修",
     g3: "同德",
@@ -15,10 +16,9 @@ function Rename(name) {
     s2: "第二进度",
     s3: "第三进度",
     s4: "第四进度",
-    dcd: "菩提道次第略论",
     "dcd-start": "《道次第》学前引导",
     "dcd-map": "《道次第》修学地图",
-    rxl: "入菩萨行论",
+    dcd: "菩提道次第略论",
     "01-dqjc": "01-道前基础",
     "02-yjszs": "02-依止善知识",
     "03-lsxf": "03-略示修法",
@@ -29,6 +29,18 @@ function Rename(name) {
     "08-cllh": "08-出离轮回",
     "09-yptx": "09-愿菩提心",
     "10-xptx": "10-行菩提心",
+    rxl: "入菩萨行论",
+    '00-xl':"序论",
+    '01-ly':"第一品 利益 ",
+    '02-ch':"第二品 忏悔",
+    '03-sc':"第三品 受持",
+    '04-bfy':"第四品 不放逸",
+    '05-hzz':"第五品 护正知",
+    '06-ar':"第六品 安忍",
+    '07-jj':"第七品 精进",
+    '08-jl':"第八品 静虑",
+    '09-zh':"第九品 智慧",
+    '10-hx':"第十品 回向",
   };
   return dictionary[name.toLowerCase()] || name;
 }
