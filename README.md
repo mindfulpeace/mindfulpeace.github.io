@@ -1,10 +1,10 @@
 # 静心学堂课程
 
-_随喜师兄浏览和一起维护课程源文件。_
+_随喜师兄一起维护课程MD文本。_
 
 ## 项目介绍
 
 为静心学堂学员提供课程"纯"文本查询服务
 
-项目部署链接为： http://mindfulpeace.github.io
+项目部署链接： http://mindfulpeace.github.io
 
