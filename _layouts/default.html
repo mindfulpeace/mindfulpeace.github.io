@@ -14,12 +14,7 @@
     <link rel="stylesheet" href="/assets/addition.css" />
   </head>
   <body class="markdown-body" style="margin: 5px">
-    <!-- <header>
-      <h1>{{ site.title }}</h1>
-      <p>{{ site.description }}</p>
-    </header> -->
-    <main>{{ content }}</main>
-    <footer>
+    <header>
       <nav aria-label="breadcrumb">
         <ul id="breadcrumb">
           <li><a href="#">Home</a></li>
@@ -29,6 +24,23 @@
         </ul>
       </nav>
       <script src="/assets/breadcrumbs.js"></script>
+    </header>
+    <main>{{ content }}</main>
+    <footer>
+      <hr />
+      <div style="padding-bottom: 1em; display: flex; justify-content: space-between; user-select: none">
+        <a href="https://github.com/mindfulpeace/mindfulpeace.github.io/">订正 by github</a>
+        <a href="#" id="backToTop">返回顶部</a>
+      </div>
+      <script>
+        document.getElementById("backToTop").addEventListener("click", function (e) {
+          e.preventDefault();
+          window.scrollTo({
+            top: 0,
+            behavior: "smooth",
+          });
+        });
+      </script>
     </footer>
   </body>
 </html>
