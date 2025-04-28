@@ -10,37 +10,27 @@
     <meta name="og:image" content="/assets/nav-logo.png" type="image/png" />
     <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
     <link rel="stylesheet" href="/assets/github-markdown.css" />
-    <link rel="stylesheet" href="/assets/breadcrumbs.css" />
     <link rel="stylesheet" href="/assets/addition.css" />
   </head>
   <body class="markdown-body" style="margin: 5px">
     <header>
       <nav aria-label="breadcrumb">
         <ul id="breadcrumb">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Category</a></li>
-          <li><a href="#">Subcategory</a></li>
-          <li>Current Page</li>
+          <li><a href="#">path</a></li>
+          <li>page</li>
         </ul>
       </nav>
-      <script src="/assets/breadcrumbs.js"></script>
     </header>
     <main>{{ content }}</main>
     <footer>
       <hr />
       <div style="padding-bottom: 1em; display: flex; justify-content: space-between; user-select: none">
-        <a href="https://github.com/mindfulpeace/mindfulpeace.github.io/tree/main{{ page.dir }}{{page.name}}">随喜参与 github 维护</a>
+        <a href="https://github.com/mindfulpeace/mindfulpeace.github.io/edit/main{{page.dir}}{{page.name}}">
+          随喜协助 github 编辑
+        </a>
         <a href="#" id="backToTop">返回顶部</a>
       </div>
-      <script>
-        document.getElementById("backToTop").addEventListener("click", function (e) {
-          e.preventDefault();
-          window.scrollTo({
-            top: 0,
-            behavior: "smooth",
-          });
-        });
-      </script>
     </footer>
+    <script src="/assets/breadcrumbs.js"></script>
   </body>
 </html>
