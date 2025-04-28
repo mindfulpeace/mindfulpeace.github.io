@@ -10,3 +10,9 @@ p:not(li p, blockquote p, pre p) {
   color: orangered;
   margin-right: 0.5rem;
 } */
+ul {
+  list-style:none;
+  /* display: flex;
+  flex-wrap: wrap; */
+  padding-inline-start: 0px;
+}

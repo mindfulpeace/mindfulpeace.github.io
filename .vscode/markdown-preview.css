@@ -1045,3 +1045,9 @@ p:not(li p , blockquote p, pre p) {
   text-align: justify;
   text-indent: 2em;
 }
+ul {
+  list-style:none;
+  /* display: flex;
+  flex-wrap: wrap; */
+  padding-left: 0px;
+}
