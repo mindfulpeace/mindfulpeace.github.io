@@ -5,6 +5,3 @@ url: https://mindfulpeace.github.io
 
 # 语言设置
 language: zh-CN
-
-plugins: 
-  - keep_english_urls
