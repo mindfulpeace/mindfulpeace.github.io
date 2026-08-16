@@ -3,6 +3,9 @@
 
 # 一、修学内容
 
+>
+> _相关下载：无资料_
+
 - ➢ 《辨修对治品》音视频第 8 课（原第 33 讲）： 五力
 - ➢ 下载链接：http://www.sanjixiuxue.com/index.php?app=@article&ac=show&id=17420
 - ➢ 参阅《真理与谬论》辩修对治品第四·甲五 五力

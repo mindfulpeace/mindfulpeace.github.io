@@ -2,6 +2,13 @@
 
 ## 【修学内容】
 
+
+> _参考阅读:【[法义](text)】_
+>
+> _相关下载：_
+>
+> - [解脱心理学-辅助材料.pdf](/assets/g2/s2/03/解脱心理学-辅助材料.pdf)
+> - [解脱心理学.pdf](/assets/g2/s2/03/解脱心理学.pdf)
 [《解脱心理学》音视频共 5 讲　](https://www.youtube.com/watch?v=PoLshmf9kik&list=PLFOtSydP54hcVhgBf2qW5CTT5vjLRxW16)
 
 ## 【修学标准】

@@ -1,5 +1,8 @@
 # 【修学内容】
 
+>
+> _相关下载：无资料_
+
 《辨修对治品》音视频第 1 课：大乘解脱道的建设
 下载链接：http://www.sanjixiuxue.com/index.php?app=@article&ac=show&id=17420
 

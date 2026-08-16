@@ -2,6 +2,9 @@
 
 ## 一、修学内容
 
+>
+> _相关下载：无资料_
+
 [《正念禅修的要领》视频共 1 讲](https://www.youtube.com/watch?v=PdfjeoRErjA)
 
 [《正念禅修的要领》文稿 1 篇](text)
