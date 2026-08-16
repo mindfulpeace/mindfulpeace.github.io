@@ -2,6 +2,11 @@
 
 > _修学前请先阅读【[辅助材料](.)】_
 >
+> _相关下载：_
+>
+> - [解脱心理学-辅助材料.pdf](/assets/g2/s2/03/解脱心理学-辅助材料.pdf)
+> - [解脱心理学.pdf](/assets/g2/s2/03/解脱心理学.pdf)
+>
 > _本期修学内容视频 [《解脱心理学》音视频共 5 讲　](https://www.youtube.com/watch?v=PoLshmf9kik&list=PLFOtSydP54hcVhgBf2qW5CTT5vjLRxW16)_
 
 > ——讲于第十五届菩提静修营
