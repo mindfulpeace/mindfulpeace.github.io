@@ -177,6 +177,12 @@ python3 scripts/validate-symlinks.py
 - 全站相对链接检查：`python3 /tmp/check_links2.py`（当前 576 个链接 0 坏链）
 - 2026-08-15 推送：远程旧历史（1GB）无法 fetch 合并，经用户确认 squash 为单提交 `66f70f9` 后 force push 覆盖远程 main；原 36 个提交历史保留在本地 `backup-main` 分支
 - 推送认证：本机使用 SSH key（`~/.ssh/id_ed25519`），origin 为 `git@github.com:mindfulpeace/mindfulpeace.github.io.git`
+### 已完成（text.md 头部规范化）
+- 122 个 text.md 在标题后统一加 `> _修学前请先阅读【[辅助材料](.)】_`
+- 8 个有 assets 资源的课程补 `> _相关下载：_` 下载列表；例外：`bxdzp/05/text.md`（空文件）、`rxl/35-test`（测试残留无 index.md）
+- 强调符号统一 `_`、辅助材料链接相对化 `(.)`、下载文字规范化；修复 u2/11 之三 mp3 链接
+- 提交 `f39757d`（未推送）
+
 
 ## 语言偏好
 
