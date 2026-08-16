@@ -175,6 +175,8 @@ python3 scripts/validate-symlinks.py
 
 ### 注意事项
 - 全站相对链接检查：`python3 /tmp/check_links2.py`（当前 576 个链接 0 坏链）
+- 2026-08-15 推送：远程旧历史（1GB）无法 fetch 合并，经用户确认 squash 为单提交 `66f70f9` 后 force push 覆盖远程 main；原 36 个提交历史保留在本地 `backup-main` 分支
+- 推送认证：本机使用 SSH key（`~/.ssh/id_ed25519`），origin 为 `git@github.com:mindfulpeace/mindfulpeace.github.io.git`
 
 ## 语言偏好
 
