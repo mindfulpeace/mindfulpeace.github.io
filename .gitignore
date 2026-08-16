@@ -1,0 +1,11 @@
+_site
+Gemfile.lock
+_以往课程
+assets/g1
+assets/g2
+# macOS
+.DS_Store
+
+# 本地工具目录
+.opencode/
+.zed/

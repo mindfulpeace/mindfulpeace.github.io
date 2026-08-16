@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; url=静心学堂手册-2025年1月.pdf">
